@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542572814 source:c:\users\utersoft\desktop\cours\code block projets\chiffres_romains\algo.c
+
+1542624214 source:c:\users\utersoft\desktop\cours\code block projets\chiffres_romains\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
